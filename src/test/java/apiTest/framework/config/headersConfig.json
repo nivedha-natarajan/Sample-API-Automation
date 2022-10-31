@@ -1,0 +1,18 @@
+{
+    "@COMMON-CONTENT-TYPE" : {
+        "Content-Type": "application/json"
+    },
+    "@FALSE": {
+        "writeable": "false"
+    },
+    "@SEARCH-NULL": {
+        "from": "0",
+        "size": 100,
+        "search": "null"
+    },
+    "@SEARCH-TABLE": {
+        "from": "0",
+        "size": 100,
+        "search": "table"
+    }
+}
